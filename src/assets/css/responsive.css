@@ -1,0 +1,25 @@
+@media screen and (max-width: 1024px) {
+  .joincard {
+    width: 992px;
+}
+.card-main{
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+}
+
+@media screen and (max-width: 991px) {
+  
+}
+
+@media screen and (min-width: 768px) {
+  
+}
+
+@media screen and (max-width: 767px) {
+  
+}
+
+@media screen and (max-width: 375px) {
+}
